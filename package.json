@@ -1,0 +1,22 @@
+{
+  "name": "learning-react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajakamanishsingh/Learning-react.git"
+  },
+  "author": "Manish Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajakamanishsingh/Learning-react/issues"
+  },
+  "homepage": "https://github.com/rajakamanishsingh/Learning-react#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
